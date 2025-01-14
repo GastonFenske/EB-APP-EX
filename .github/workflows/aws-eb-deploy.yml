@@ -1,4 +1,4 @@
-name: Deploy Pipeline AWS Elastic Beanstalk
+name: Deploy Pipeline AWS EB
 
 on:
   push:
